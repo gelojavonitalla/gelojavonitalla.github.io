@@ -312,6 +312,13 @@ p {
   display: inline-block;
   vertical-align: middle;
 }
+.icon-linkedin {
+  background: url('/images/linkedin.png') no-repeat;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  vertical-align: middle;
+}
 .profile {
   font-size: 0.875em;
   line-height: 1.42857em;
