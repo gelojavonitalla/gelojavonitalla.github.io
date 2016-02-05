@@ -931,13 +931,6 @@ p {
 .twitter-timeline {
   margin-top: 1.28571em;
 }
-.icon-linkedin {
-  background: url('/images/linkedin.png') no-repeat;
-  height: 40px;
-  width: 40px;
-  display: inline-block;
-  vertical-align: middle;
-}
 @-moz-document url-prefix() {
   .profile-name {
     display: block;
